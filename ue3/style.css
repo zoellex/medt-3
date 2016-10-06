@@ -19,9 +19,9 @@ header{
 
 main{
 	margin-top: 2em;
-	width: 65%;
+	width: 70%;
 	background-color: #ff4081;
-	height: 600px;
+	height: 85%;
 	float: left;
 }
 
@@ -91,4 +91,8 @@ nav ul li a{
 	font-size: 50px;
 	background-color: lightpink;
 	padding-top: 20px;
+}
+
+article{
+	overflow: hidden;
 }
